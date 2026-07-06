@@ -4,7 +4,7 @@ I build **MCP servers** — focused tools that connect AI assistants (Claude, Cu
 to the apps you already use, via the [Model Context Protocol](https://modelcontextprotocol.io).
 
 ## 🧰 My MCP servers
-- **[ohneben Anytype MCP](https://github.com/ohneben/Anytype-MCP)** — self-hosted Anytype
+- **[ohneben's Anytype MCP](https://github.com/ohneben/Anytype-MCP)** — self-hosted Anytype
   MCP server: Docker + Streamable HTTP, always-on, connectable from any MCP client.
 - **[ohneben's Buchhaltungsbutler MCP](https://github.com/ohneben/Buchhaltungsbutler-MCP)** —
   BuchhaltungsButler bookkeeping from any MCP client: all 48 API endpoints as
