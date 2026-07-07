@@ -13,6 +13,10 @@ to the apps you already use, via the [Model Context Protocol](https://modelconte
 - **[ohneben's Buchhaltungsbutler MCP](https://github.com/ohneben/Buchhaltungsbutler-MCP)** —
   BuchhaltungsButler bookkeeping from any MCP client: all 48 API endpoints as
   safety-categorized (🟢/🟡/🔴) tools, over stdio or Streamable HTTP, in Docker.
+- **[ohneben's HubSpot MCP](https://github.com/ohneben/Hubspot-MCP)** — run your entire
+  HubSpot portal from any MCP client: the whole public API (~1,080 endpoints across CRM,
+  CMS, Marketing, Automation & Commerce) as safety-categorized (🟢/🟡/🔴), hub & plan-aware
+  tools, over stdio or Streamable HTTP, in Docker.
 - **[ohneben's LearnWorlds MCP](https://github.com/ohneben/Learnworlds-MCP)** — run your
   LearnWorlds school from any MCP client: all 94 API endpoints as safety-categorized
   (🟢/🟡/🔴) tools, over stdio or Streamable HTTP, in Docker.
