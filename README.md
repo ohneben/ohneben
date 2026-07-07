@@ -4,6 +4,10 @@ I build **MCP servers** — focused tools that connect AI assistants (Claude, Cu
 to the apps you already use, via the [Model Context Protocol](https://modelcontextprotocol.io).
 
 ## 🧰 My MCP servers
+- **[ohneben's ActiveCampaign MCP](https://github.com/ohneben/ActiveCampaign-MCP)** — run your
+  ActiveCampaign account from any MCP client: the full account API (~325 endpoints across v3,
+  SMS, WhatsApp & Segments) as safety-categorized (🟢/🟡/🔴) tools, over stdio or Streamable
+  HTTP, in Docker.
 - **[ohneben's Anytype MCP](https://github.com/ohneben/Anytype-MCP)** — self-hosted Anytype
   MCP server: Docker + Streamable HTTP, always-on, connectable from any MCP client.
 - **[ohneben's Buchhaltungsbutler MCP](https://github.com/ohneben/Buchhaltungsbutler-MCP)** —
