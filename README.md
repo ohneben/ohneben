@@ -1,5 +1,7 @@
 # Hi, I'm ohneben 👋
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ohneben-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/ohneben)
+
 I build **MCP servers** — focused tools that connect AI assistants (Claude, Cursor, …)
 to the apps you already use, via the [Model Context Protocol](https://modelcontextprotocol.io).
 
@@ -25,6 +27,5 @@ to the apps you already use, via the [Model Context Protocol](https://modelconte
 Tests, CI, a prebuilt Docker image, and clear docs on every server. MIT-licensed.
 
 ## ☕ Support
-These servers are free and MIT-licensed. If one of them saves you time:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ohneben-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/ohneben)
+These servers are free and MIT-licensed. If one of them saves you time,
+[buy me a coffee](https://buymeacoffee.com/ohneben).
