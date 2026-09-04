@@ -23,3 +23,8 @@ to the apps you already use, via the [Model Context Protocol](https://modelconte
 
 ## ⭐ What to expect
 Tests, CI, a prebuilt Docker image, and clear docs on every server. MIT-licensed.
+
+## ☕ Support
+These servers are free and MIT-licensed. If one of them saves you time:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ohneben-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/ohneben)
