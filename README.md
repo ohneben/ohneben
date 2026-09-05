@@ -23,9 +23,6 @@ to the apps you already use, via the [Model Context Protocol](https://modelconte
   LearnWorlds school from any MCP client: all 94 API endpoints as safety-categorized
   (🟢/🟡/🔴) tools, over stdio or Streamable HTTP, in Docker.
 
-## ⭐ What to expect
-Tests, CI, a prebuilt Docker image, and clear docs on every server. MIT-licensed.
-
 ## ☕ Support
 These servers are free and MIT-licensed. If one of them saves you time,
 [buy me a coffee](https://buymeacoffee.com/ohneben).
