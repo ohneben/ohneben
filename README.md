@@ -22,6 +22,10 @@ to the apps you already use, via the [Model Context Protocol](https://modelconte
 - **[ohneben's LearnWorlds MCP](https://github.com/ohneben/Learnworlds-MCP)** — run your
   LearnWorlds school from any MCP client: all 94 API endpoints as safety-categorized
   (🟢/🟡/🔴) tools, over stdio or Streamable HTTP, in Docker.
+- **[ohneben's Wafeq MCP](https://github.com/ohneben/Wafeq-MCP)** — run your Wafeq books
+  from any MCP client: all 251 API endpoints as safety-categorized (🟢/🟡/🟠/🔴) tools —
+  tax-authority filings flagged apart from ordinary writes — over stdio or Streamable
+  HTTP, in Docker.
 
 ## ☕ Support
 These servers are free and MIT-licensed. If one of them saves you time,
